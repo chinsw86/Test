@@ -118,6 +118,8 @@ public class StartActivity extends AppCompatActivity {
                 qbuttonlayout2.addView(btn);
             }
 
+            //test1
+
             btn.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
